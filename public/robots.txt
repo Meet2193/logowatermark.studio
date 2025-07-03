@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Important pages
+Allow: /about-us
+Allow: /contact
+Allow: /privacy-policy
+Allow: /terms-conditions
+Allow: /how-to-add-logo-to-image-online
+Allow: /blog
+Allow: /blog/*
+
+# Sitemap
+Sitemap: https://logowatermark.studio/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
